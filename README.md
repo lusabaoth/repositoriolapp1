@@ -1,3 +1,4 @@
 # repositoriolapp1
 aplicacion leccion
-Jose M
+Jose Moreira
+katherine Cordova
