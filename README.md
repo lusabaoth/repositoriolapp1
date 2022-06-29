@@ -2,3 +2,4 @@
 aplicacion leccion
 Jose Moreira
 katherine Cordova
+Jorge Guerrero
