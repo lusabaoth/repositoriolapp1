@@ -3,3 +3,4 @@ aplicacion leccion
 Jose Moreira
 katherine Cordova
 Jorge Guerrero
+Heydi Viteri Crow
