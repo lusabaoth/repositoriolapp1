@@ -4,3 +4,4 @@ Jose Moreira
 katherine Cordova
 Jorge Guerrero
 Heydi Viteri Crow
+Kiara Vera M
